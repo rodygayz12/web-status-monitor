@@ -1,4 +1,4 @@
 # Refer https://github.com/zyrouge/web-status-monitor#configuration for documentation
 entities:
-    - url: "https://google.com"
+    - url: "https://jupiterlab-render-0pdn.onrender.com/lab?"
       method: "get"
