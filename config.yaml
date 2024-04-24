@@ -2,3 +2,6 @@
 entities:
     - url: "https://jupiterlab-render-0pdn.onrender.com/lab?"
       method: "get"
+entities:
+    - url: "https://filestreambot-b5k6.onrender.com/"
+      method: "get"
