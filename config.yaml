@@ -4,3 +4,5 @@ entities:
       method: "get"
     - url: "https://filestreambot-b5k6.onrender.com/"
       method: "get"
+    - url: "https://uploader-bot-v4-aggw.onrender.com/"
+      method: "get"
