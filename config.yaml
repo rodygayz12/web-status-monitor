@@ -1,8 +1,8 @@
 # Refer https://github.com/zyrouge/web-status-monitor#configuration for documentation
 entities:
-    - url: "https://jupiterlab-render-0pdn.onrender.com/lab?"
+    - url: "https://restreamer-09gx.onrender.com"
       method: "get"
     - url: "https://filestreambot-b5k6.onrender.com/"
       method: "get"
-    - url: "https://uploader-bot-v4-aggw.onrender.com/"
+    - url: "https://restreamer-09gx.onrender.com/ui"
       method: "get"
