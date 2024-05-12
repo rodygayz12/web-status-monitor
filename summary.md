@@ -1,6 +1,6 @@
 # 📖 Summary
-Last updated: **5/12/2024, 8:37:41 AM**
+Last updated: **5/12/2024, 8:44:45 AM**
 
-- `GET` [https://restreamer-09gx.onrender.com](https://restreamer-09gx.onrender.com) - **Up** (880ms)
-- `GET` [https://filestreambot-b5k6.onrender.com/](https://filestreambot-b5k6.onrender.com/) - **Up** (357ms)
-- `GET` [https://restreamer-09gx.onrender.com/ui](https://restreamer-09gx.onrender.com/ui) - **Up** (610ms)
+- `GET` [https://restreamer-09gx.onrender.com](https://restreamer-09gx.onrender.com) - **Up** (351ms)
+- `GET` [https://filestreambot-b5k6.onrender.com/](https://filestreambot-b5k6.onrender.com/) - **Up** (820ms)
+- `GET` [https://restreamer-09gx.onrender.com/ui](https://restreamer-09gx.onrender.com/ui) - **Up** (1074ms)
