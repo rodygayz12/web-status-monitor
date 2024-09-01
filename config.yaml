@@ -1,8 +1,8 @@
 # Refer https://github.com/zyrouge/web-status-monitor#configuration for documentation
 entities:
-    - url: "https://restreamer-09gx.onrender.com"
+    - url: "https://talk-m6gd.onrender.com/umar"
       method: "get"
-    - url: "https://filestreambot-b5k6.onrender.com/"
+    - url: "https://talk-m6gd.onrender.com/9337"
       method: "get"
-    - url: "https://jupyterlab-python3-12-3.onrender.com"
+    - url: "https://talk-m6gd.onrender.com/umar920"
       method: "get"
