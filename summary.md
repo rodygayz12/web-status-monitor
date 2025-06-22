@@ -1,6 +1,6 @@
 # 📖 Summary
-Last updated: **6/22/2025, 10:47:54 PM**
+Last updated: **6/22/2025, 10:55:19 PM**
 
-- `GET` [https://talk-m6gd.onrender.com/umar](https://talk-m6gd.onrender.com/umar) - **Down** (130ms)
-- `GET` [https://talk-m6gd.onrender.com/9337](https://talk-m6gd.onrender.com/9337) - **Down** (95ms)
-- `GET` [https://talk-m6gd.onrender.com/umar920](https://talk-m6gd.onrender.com/umar920) - **Down** (139ms)
+- `GET` [https://talk-m6gd.onrender.com/umar](https://talk-m6gd.onrender.com/umar) - **Down** (259ms)
+- `GET` [https://talk-m6gd.onrender.com/9337](https://talk-m6gd.onrender.com/9337) - **Down** (90ms)
+- `GET` [https://talk-m6gd.onrender.com/umar920](https://talk-m6gd.onrender.com/umar920) - **Down** (78ms)
